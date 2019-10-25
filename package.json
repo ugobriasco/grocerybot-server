@@ -31,7 +31,7 @@
     "hat": "0.0.3",
     "joi": "^14.3.0",
     "jsonwebtoken": "^8.4.0",
-    "mongoose": "^5.3.14",
+    "mongoose": "^5.7.5",
     "nodemailer": "^4.7.0",
     "passport": "^0.4.0",
     "passport-http": "^0.3.0",
